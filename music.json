@@ -1,8 +1,32 @@
 [
   {
-    "name": "ไม่อยากเป็นเสือ-SON-NPY-【COVER-VERSION】จินน้อย",
+    "name": "ไม่อยากเป็นเสือ【COVER-VERSION】จินน้อย",
     "imageUrl": "https://raw.githubusercontent.com/NGSStudio/Minecraft-Music/refs/heads/main/img/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95%202025-08-09%20172842.png",
     "url": "https://raw.githubusercontent.com/NGSStudio/Minecraft-Music/refs/heads/main/music/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD-SON-NPY-%E3%80%90COVER-VERSION%E3%80%91%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2.mp3",
     "durationInSeconds": 261
+  },
+  {
+    "name": "RachYO เลวพอกัน Feat.BenzNer[Official MV] Prod.EVRTHXG",
+    "imageUrl": "https://raw.githubusercontent.com/NGSStudio/Minecraft-Music/refs/heads/main/img/sddefault%20(1).jpg",
+    "url": "https://raw.githubusercontent.com/NGSStudio/Minecraft-Music/refs/heads/main/music/RachYO-%E0%B9%80%E0%B8%A5%E0%B8%A7%E0%B8%9E%E0%B8%AD%E0%B8%81%E0%B8%B1%E0%B8%99%20Feat.BenzNer%5BOfficial%20MV%5D%20Prod.EVRTHXG%20(1080p).mp3",
+    "durationInSeconds": 219
+  },
+  {
+    "name": "แค่โสด SOLOIST",
+    "imageUrl": "https://raw.githubusercontent.com/NGSStudio/Minecraft-Music/refs/heads/main/img/sddefault%20(2).jpg",
+    "url": "https://raw.githubusercontent.com/NGSStudio/Minecraft-Music/refs/heads/main/music/%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%82%E0%B8%AA%E0%B8%94-SOLOIST-_1080p_.mp3",
+    "durationInSeconds": 238
+  },
+  {
+    "name": "แค่โสด - ฝนฝน & จินน้อย PTmusic【4K COVER VERSION】original SOLOIST feat แร๊พอีสาน",
+    "imageUrl": "https://raw.githubusercontent.com/NGSStudio/Minecraft-Music/refs/heads/main/img/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95%202025-08-09%20174553.png",
+    "url": "https://raw.githubusercontent.com/NGSStudio/Minecraft-Music/refs/heads/main/music/%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%82%E0%B8%AA%E0%B8%94%20-%20%E0%B8%9D%E0%B8%99%E0%B8%9D%E0%B8%99%20%26%20%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20PTmusic%E3%80%904K%20COVER%20VERSION%E3%80%91original%20SOLOIST%20feat%20%E0%B9%81%E0%B8%A3%E0%B9%8A%E0%B8%9E%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99%20(2160p60).mp3",
+    "durationInSeconds": 238
+  },
+  {
+    "name": "แค่โสด (3 ช่ามันส์ๆ) - SOLOIST feat แร๊พอีสาน (ThefunfactoryRMX)",
+    "imageUrl": "https://raw.githubusercontent.com/NGSStudio/Minecraft-Music/refs/heads/main/img/sddefault.webp",
+    "url": "https://raw.githubusercontent.com/NGSStudio/Minecraft-Music/refs/heads/main/music/%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%82%E0%B8%AA%E0%B8%94%20(3%20%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B9%86)%20-%20SOLOIST%20feat%20%E0%B9%81%E0%B8%A3%E0%B9%8A%E0%B8%9E%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99%20(ThefunfactoryRMX)%20(720p).mp3",
+    "durationInSeconds": 238
   }
 ]
