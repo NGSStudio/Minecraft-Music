@@ -2,21 +2,19 @@
   {
     "name": "ไม่อยากเป็นเสือ【COVER-VERSION】จินน้อย",
     "url": "https://firebasestorage.googleapis.com/v0/b/ngsmusic.firebasestorage.app/o/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD-SON-NPY-%E3%80%90COVER-VERSION%E3%80%91%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2.wav?alt=media&token=c4e351b3-7edf-4df4-8ba5-1211f6fdd6ac",
-    "durationInSeconds": 261
+    "durationInSeconds": 261,
+    "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/ngsmusic.firebasestorage.app/o/Video%2F%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%20-%20SON%20NPY%20%E3%80%90COVER%20VERSION%E3%80%91%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2PTMusic%20(1080p).mp4?alt=media&token=b59e1b4d-b98b-431b-aaaf-55720ca19ce9"
   },
   {
     "name": "RachYO เลวพอกัน Feat.BenzNer[Official MV] Prod.EVRTHXG",
     "url": "https://firebasestorage.googleapis.com/v0/b/ngsmusic.firebasestorage.app/o/RachYO-%E0%B9%80%E0%B8%A5%E0%B8%A7%E0%B8%9E%E0%B8%AD%E0%B8%81%E0%B8%B1%E0%B8%99-Feat.BenzNer_Official-MV_-Prod.EVRTHXG-_1080p_.wav?alt=media&token=800f9d17-acde-47cc-911a-8cf52375d135",
-    "durationInSeconds": 219
-  },
-  {
-    "name": "แค่โสด SOLOIST",
-    "url": "https://firebasestorage.googleapis.com/v0/b/ngsmusic.firebasestorage.app/o/%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%82%E0%B8%AA%E0%B8%94-SOLOIST-_1080p_.wav?alt=media&token=3b2e410e-ba1e-4198-83d7-5a1a6ec3c78e",
-    "durationInSeconds": 238
+    "durationInSeconds": 219,
+     "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/ngsmusic.firebasestorage.app/o/Video%2FRachYO-%E0%B9%80%E0%B8%A5%E0%B8%A7%E0%B8%9E%E0%B8%AD%E0%B8%81%E0%B8%B1%E0%B8%99%20Feat.BenzNer%5BOfficial%20MV%5D%20Prod.EVRTHXG%20(1080p).mp4?alt=media&token=03fde602-5e6d-47da-905e-9767b31a35e5"
   },
   {
     "name": "แค่โสด - ฝนฝน & จินน้อย PTmusic【4K COVER VERSION】original SOLOIST feat แร๊พอีสาน",
     "url": "https://firebasestorage.googleapis.com/v0/b/ngsmusic.firebasestorage.app/o/%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%82%E0%B8%AA%E0%B8%94-%E0%B8%9D%E0%B8%99%E0%B8%9D%E0%B8%99-_-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2-PTmusic%E3%80%904K-COVER-VERSION%E3%80%91original-SOLOIST-feat-%E0%B9%81%E0%B8%A3%E0%B9%8A%E0%B8%9E%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99-_2160p60_.wav?alt=media&token=2b783235-1187-45a6-808c-8041ca6d1b93",
-    "durationInSeconds": 238
+    "durationInSeconds": 238,
+    "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/ngsmusic.firebasestorage.app/o/Video%2F%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%82%E0%B8%AA%E0%B8%94%20-%20%E0%B8%9D%E0%B8%99%E0%B8%9D%E0%B8%99%20%20%26%20%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%20PTmusic%E3%80%904K%20COVER%20VERSION%E3%80%91original%20%20%20SOLOIST%20feat%20%E0%B9%81%E0%B8%A3%E0%B9%8A%E0%B8%9E%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99%20(2160p60).mp4?alt=media&token=d84942a6-56e0-4f95-ac33-12a4c240deb6"
   }
 ]
